@@ -1,0 +1,23 @@
+.content{
+    display: none;
+}
+.content.shown{
+    display: block;
+  
+}
+.main {
+    display: flex;
+    align-items: center  ;
+    justify-content: space-between;
+    padding: 20px;
+    column-gap: 10px;
+  }
+  
+.box {
+        border: 1px solid #947e7e;
+ 
+        background-color: #cccccc22;
+        text-align: center;
+        padding: 10px;
+ }
+      
